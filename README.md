@@ -1,1 +1,1 @@
-<img src="Image(14).jpeg" alt="My Image">
+![Alt text](Image(14).jpeg)
