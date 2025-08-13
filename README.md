@@ -1,1 +1,1 @@
-![Alt text](Image(14).jpeg)
+![Alt text](Image (14).jpeg)
